@@ -1,0 +1,8 @@
+node_modules/
+games_data.json
+games_array.js
+parse_games.js
+build_games.js
+rebuild_html.js
+*.log
+.vercel/
